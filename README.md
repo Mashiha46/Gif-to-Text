@@ -14,4 +14,6 @@ We Should Install Binary
 For Mac Users
 - brew install tesseract
 ### Windows
-To Install tesseract using windows installer [Click here](https://github.com/UB-Mannheim/tesseract/wiki)
+- To Install tesseract using windows installer [Click here](https://github.com/UB-Mannheim/tesseract/wiki) and Download suitable Version.
+- Add tesseract path to your System Environment i.e Edit system variable
+- Run > pip install pytesseract
