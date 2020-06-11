@@ -15,6 +15,8 @@ For Mac Users
 - brew install tesseract
 ### Windows
 - To Install tesseract using windows installer [Click here](https://github.com/UB-Mannheim/tesseract/wiki) and Download suitable Version.
-- Add tesseract path to your System Environment i.e Edit system variable
+- Add tesseract path to your System Environment i.e Edit system variable.
 - Run ```pip install pytesseract``` and ```pip install tesseract```
-Note:
+- Run the Code.
+#### Note: 
+If We get an Error like this ```pytesseract.pytesseract.TesseractError: (1, 'Error opening data file \\Program Files (x86)\\Tesseract-OCR\\tessdata/eng.traineddata')``` then try to worked around by changing directory to the drive containing tesseract.
