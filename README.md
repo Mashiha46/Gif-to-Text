@@ -4,3 +4,5 @@ A GIF or Graphical Interchange Format is a type of highly Compressed Image. It i
 ### OCR
 The method of extracting text from images is called Optical Character Recognition (OCR). **Tesseract** is an optical character recognition engine for various operating systems. It is free software, released under the Apache License.
 ## Installing Tesseract
+### Windows
+Install tesseract using windows installer available at:[https://github.com/UB-Mannheim/tesseract/wiki]
