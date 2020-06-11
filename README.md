@@ -18,4 +18,4 @@ For Mac Users
 - Add tesseract path to your System Environment i.e Edit system variable
 - Run '''
 pip install pytesseract 
-'''
+"'pip'"
