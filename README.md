@@ -6,12 +6,12 @@ The method of extracting text from images is called Optical Character Recognitio
 ## Installing Tesseract
 ### Linus
 We Should Install Binary
--sudo apt-get update
--sudo apt-get install libleptonica-dev 
--sudo apt-get install tesseract-ocr tesseract-ocr-dev
--sudo apt-get install libtesseract-dev
+- sudo apt-get update
+- sudo apt-get install libleptonica-dev 
+- sudo apt-get install tesseract-ocr tesseract-ocr-dev
+- sudo apt-get install libtesseract-dev
 ### Mac
 For Mac Users
--brew install tesseract
+- brew install tesseract
 ### Windows
 To Install tesseract using windows installer [Click here](https://github.com/UB-Mannheim/tesseract/wiki)
